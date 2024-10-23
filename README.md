@@ -1,17 +1,9 @@
-
-## Name
-Athlete Linked List Data Structure in C++
+# Athlete Linked List Data Structure in C++
 
 ## Description
 This project implements a linked list data structure to manage a collection of athletes using C++. It provides functionality to store, manipulate, and retrieve athlete data efficiently. The linked list implementation allows dynamic addition and removal of athletes while maintaining a simple and flexible structure. This project can be useful in scenarios such as managing sports team rosters, tracking athlete statistics, or organizing event participants.
 
 The project demonstrates key concepts in data structures such as linked lists, node manipulation, and dynamic memory allocation in C++. The code is designed to be compiled and run using Code::Blocks, making it easy to test and modify.
-
-## Badges
-You can add badges here using a service like [Shields.io](https://shields.io/).
-
-- Build Status: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-- License: ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Visuals
 Since this is a console-based project, visuals could include screenshots of the console output during various operations like adding or removing athletes from the linked list.
@@ -76,7 +68,7 @@ Contributions are welcome! If you'd like to improve the project, follow these st
 Make sure your code follows the style and conventions used in the project.
 
 ## Authors and acknowledgment
-- **[Your Name]** - Original Author
+- **Ghazy Fadhal Ramadhan, Muhammad Rafie Hamizan** - Original Author
 - Special thanks to contributors and anyone who helped in reviewing or improving the project.
 
 ## License
