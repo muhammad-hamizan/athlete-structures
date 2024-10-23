@@ -71,8 +71,5 @@ Make sure your code follows the style and conventions used in the project.
 - **Ghazy Fadhal Ramadhan, Muhammad Rafie Hamizan** - Original Author
 - Special thanks to contributors and anyone who helped in reviewing or improving the project.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Project status
 This project is actively maintained, and new features may be added in the future. Feel free to contribute or suggest ideas.
