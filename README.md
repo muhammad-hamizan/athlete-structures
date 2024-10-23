@@ -21,7 +21,7 @@ To run this project, follow these steps:
 
 1. Clone or download the repository.
 2. Ensure you have [Code::Blocks](https://www.codeblocks.org/) or another C++ IDE installed.
-3. Open `main.cpp` in Code::Blocks.
+3. Open `TubesSTD.cbp` in Code::Blocks.
 4. Build and run the project.
 
 ## Usage
